@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Mazascell 
+public class Mazecell 
 {
     public bool Isvisited = false;
     public GameObject DownWall;
