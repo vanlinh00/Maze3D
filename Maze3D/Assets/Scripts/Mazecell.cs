@@ -9,4 +9,5 @@ public class Mazecell
     public GameObject UpWall;
     public GameObject LeftWall;
     public GameObject RigthWall;
+    public GameObject Plane;
 }
